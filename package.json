@@ -1,0 +1,20 @@
+{
+  "name": "activities",
+  "version": "1.0.0",
+  "description": "Discord bot to create YouTube Together Activity",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "youtube-together",
+    "discord",
+    "activities"
+  ],
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
